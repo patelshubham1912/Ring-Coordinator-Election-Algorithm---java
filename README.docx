@@ -1,0 +1,16 @@
+# Ring-Coordinator-Election-Algorithm---java
+Implemented Ring Coordinator Election Algorithm in java
+
+System Requirements:
+•	Language used : JAVA
+•	IDE used : command prompt
+•	Operating system : Windows
+
+Key Features Implemented :
+•	Used sockets for inter-process communication .
+•	All Processes start up correctly.
+•	We can crash the coordinator communication.
+•	Whenever coordinator is crashed other processes can initiate the communication.
+•	Correct process is elected as the coordinator.
+•	Correct messages and tokens are show while transmitting messages between process.
+•	Multiple processes can initiate the election at the same time.
